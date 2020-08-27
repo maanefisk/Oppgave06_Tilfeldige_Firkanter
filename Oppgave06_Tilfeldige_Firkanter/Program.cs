@@ -6,7 +6,7 @@ namespace Oppgave06_Tilfeldige_Firkanter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[,] brett = new int[10,10];
         }
     }
 }
